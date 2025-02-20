@@ -30,15 +30,12 @@
 
 ### 💻 Tech Stack
 #### 🚀 Programming Languages
-![Java](https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png)  
-![Python](https://img.icons8.com/color/24/000000/python.png)  
+![Java](https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png)  ![Python](https://img.icons8.com/color/24/000000/python.png)  
 ![C](https://img.icons8.com/color/24/000000/c-programming.png)  
 
 #### 🌐 Frontend Development
-![HTML](https://img.icons8.com/color/24/000000/html-5.png)  
-![CSS](https://img.icons8.com/color/24/000000/css3.png)  
-![Bootstrap](https://img.icons8.com/color/24/000000/bootstrap.png)  
-![JavaScript](https://img.icons8.com/color/24/000000/javascript.png)  
+![HTML](https://img.icons8.com/color/24/000000/html-5.png)  ![CSS](https://img.icons8.com/color/24/000000/css3.png)  
+![Bootstrap](https://img.icons8.com/color/24/000000/bootstrap.png)  ![JavaScript](https://img.icons8.com/color/24/000000/javascript.png)  
 ![React](https://img.icons8.com/color/24/000000/react-native.png)  
 
 #### 🛠 Backend Development
