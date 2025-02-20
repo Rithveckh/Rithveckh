@@ -49,7 +49,7 @@
 
 ---
 
-### 💬 Quote of the Day
+### 💬 Quote for Life
 <p align="center">
   <i>"One machine can do the work of fifty ordinary men. <br>
   No machine can do the work of one extraordinary man." - Elbert Hubbard</i>
