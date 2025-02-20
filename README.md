@@ -14,8 +14,6 @@
 - 🔭 I’m currently working on **Full Stack Development Projects**
 - 🌱 I’m learning **MERN Stack**
 - 💡 Passionate about **Web Development, Full Stack development, and Problem Solving**
-- 📫 Reach me at: **rithveckhdhamodharan@gmail.com**
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/rithveckh-d-3b598328a)
 
 ---
 
