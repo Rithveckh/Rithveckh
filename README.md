@@ -1,7 +1,11 @@
-<h1 align="center">Hi there! 👋 I'm Rithveckh</h1>
+<h1 align="center">Hello Developers! 👋 I'm Rithveckh</h1>
 
 <p align="center">
   🚀 Enthusiastic Full Stack Developer | 🎓 IT Student at PSG College of Technology
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rithveckh&color=blue" alt="Profile Views">
 </p>
 
 ---
