@@ -8,8 +8,8 @@
 
 ### 🌟 About Me
 - 🔭 I’m currently working on **Full Stack Development Projects**
-- 🌱 I’m learning **Spring Boot, React.js, and Cloud Technologies**
-- 💡 Passionate about **Web Development, Open Source, and Problem Solving**
+- 🌱 I’m learning **MERN Stack**
+- 💡 Passionate about **Web Development, Full Stack development, and Problem Solving**
 - 📫 Reach me at: **rithveckhdhamodharan@gmail.com**
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/rithveckh-d-3b598328a)
 
@@ -25,17 +25,23 @@
 
 ---
 
-### 📊 Contribution Activity
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Rithveckh&theme=dark)
-
----
-
 ### 💻 Tech Stack
+#### 🚀 Programming Languages
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+
+#### 🌐 Frontend Development
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+
+#### 🛠 Backend Development
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+#### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
