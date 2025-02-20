@@ -30,18 +30,22 @@
 
 ### 💻 Tech Stack
 #### 🚀 Programming Languages
-![Java]([<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>](https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png))  ![Python]([<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>](https://img.icons8.com/color/48/python--v1.png))  ![C]([<img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>](https://img.icons8.com/color/48/c-programming.png))  
+[<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/java-coffee-cup-logo.png" alt="Java"/>](https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png)
+[<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/python.png" alt="Python"/>](https://img.icons8.com/color/48/python--v1.png)
+[<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/c-programming.png" alt="C"/>](https://img.icons8.com/color/48/c-programming.png)
 
 #### 🌐 Frontend Development
-![HTML](https://img.icons8.com/color/24/000000/html-5.png)  ![CSS](https://img.icons8.com/color/24/000000/css3.png)  
-![Bootstrap](https://img.icons8.com/color/24/000000/bootstrap.png)  ![JavaScript](https://img.icons8.com/color/24/000000/javascript.png)  
-![React](https://img.icons8.com/color/24/000000/react-native.png)  
+[<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/html-5.png" alt="HTML"/>](https://img.icons8.com/color/48/html-5.png)
+[<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/css3.png" alt="CSS"/>](https://img.icons8.com/color/48/css3.png)
+[<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/bootstrap.png" alt="Bootstrap"/>](https://img.icons8.com/color/48/bootstrap.png)
+[<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/javascript.png" alt="JavaScript"/>](https://img.icons8.com/color/48/javascript.png)
+[<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/react-native.png" alt="React"/>](https://img.icons8.com/color/48/react-native.png)
 
 #### 🛠 Backend Development
-![Node.js](https://img.icons8.com/color/24/000000/nodejs.png)  
+[<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/node-js.png" alt="Node.js"/>](https://img.icons8.com/color/48/nodejs.png)
 
 #### 🗄️ Database
-![MySQL](https://img.icons8.com/color/24/000000/mysql-logo.png)  
+[<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/mysql-logo.png" alt="MySQL"/>](https://img.icons8.com/color/48/mysql-logo.png)
 
 ---
 
