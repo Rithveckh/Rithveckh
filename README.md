@@ -30,8 +30,7 @@
 
 ### 💻 Tech Stack
 #### 🚀 Programming Languages
-![Java](https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png)  ![Python](https://img.icons8.com/color/24/000000/python.png)  
-![C](https://img.icons8.com/color/24/000000/c-programming.png)  
+![Java](<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>)  ![Python](<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>)  ![C](<img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>)  
 
 #### 🌐 Frontend Development
 ![HTML](https://img.icons8.com/color/24/000000/html-5.png)  ![CSS](https://img.icons8.com/color/24/000000/css3.png)  
