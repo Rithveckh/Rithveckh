@@ -26,7 +26,7 @@
 
 ### 🔥 Popular Repositories
 - [Netflix-Clone---HTML-CSS](https://github.com/Rithveckh/Netflix-Clone---HTML-CSS) 🌟
-
+- [Expenzo-Mini-Java-Core-Project](https://github.com/Rithveckh/Expenzo_JavaProject) 🌟
 ---
 
 ### 💻 Tech Stack
