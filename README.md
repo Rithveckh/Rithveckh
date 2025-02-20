@@ -25,6 +25,7 @@
 ### 🔥 Popular Repositories
 - [Netflix-Clone---HTML-CSS](https://github.com/Rithveckh/Netflix-Clone---HTML-CSS) 🌟
 - [Expenzo-Mini-Java-Core-Project](https://github.com/Rithveckh/Expenzo_JavaProject) 🌟
+
 ---
 
 ### 💻 Tech Stack
@@ -45,6 +46,14 @@
 
 #### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+### 💬 Quote of the Day
+<p align="center">
+  <i>"One machine can do the work of fifty ordinary men. <br>
+  No machine can do the work of one extraordinary man." - Elbert Hubbard</i>
+</p>
 
 ---
 
