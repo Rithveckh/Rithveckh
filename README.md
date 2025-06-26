@@ -10,10 +10,11 @@
 
 ---
 
-### 🌟 About Me
-- 🔭 I’m currently working on **Full Stack Development Projects**
-- 🌱 I’m learning **PERN Stack**
-- 💡 Passionate about **Web Development, Full Stack development, and Problem Solving**
+### 🌟 About Me  
+- 🔭 I’m currently working on **Full Stack Development Projects**  
+- 🌱 Well-versed in **PERN Stack** (PostgreSQL, Express.js, React, Node.js)  
+- 📚 Currently learning **MERN Stack** (MongoDB, Express.js, React, Node.js)  
+- 💡 Passionate about **Web Development, Full Stack Development, and Problem Solving**
 
 ---
 
