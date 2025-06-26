@@ -12,7 +12,7 @@
 
 ### 🌟 About Me
 - 🔭 I’m currently working on **Full Stack Development Projects**
-- 🌱 I’m learning **MERN Stack**
+- 🌱 I’m learning **PERN Stack**
 - 💡 Passionate about **Web Development, Full Stack development, and Problem Solving**
 
 ---
