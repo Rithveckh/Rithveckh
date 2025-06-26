@@ -23,6 +23,8 @@
 ---
 
 ### 🔥 Popular Repositories
+- [React-Instagram_Clone](https://github.com/Rithveckh/React-Instagram_Clone.git) 🌟
+- [GPT-Clone---Ollamma-Project]((https://github.com/Rithveckh/GPT-Clone---Ollamma.git)) 🌟
 - [Netflix-Clone---HTML-CSS](https://github.com/Rithveckh/Netflix-Clone---HTML-CSS) 🌟
 - [Expenzo-Mini-Java-Core-Project](https://github.com/Rithveckh/Expenzo_JavaProject) 🌟
 
