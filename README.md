@@ -24,9 +24,9 @@
 ---
 
 ### 🔥 Popular Repositories
-- [React-Instagram_Clone](https://github.com/Rithveckh/React-Instagram_Clone.git) 🌟
+- [Vision-Next]((https://github.com/Rithveckh/Vision_Next.git)) 🌟
 - [GPT-Clone---Ollamma-Project](https://github.com/Rithveckh/GPT-Clone---Ollamma.git) 🌟
-- [Netflix-Clone---HTML-CSS](https://github.com/Rithveckh/Netflix-Clone---HTML-CSS) 🌟
+- [React-Instagram_Clone](https://github.com/Rithveckh/React-Instagram_Clone.git) 🌟
 - [Expenzo-Mini-Java-Core-Project](https://github.com/Rithveckh/Expenzo_JavaProject) 🌟
 
 ---
