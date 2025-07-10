@@ -19,7 +19,14 @@
 ---
 
 ### 🏆 My GitHub Stats
-![Rithveckh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rithveckh&show_icons=true&theme=dark)
+![Rithveckh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rithveckh&show_icons=true&theme=radical&border_radius=10)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rithveckh&layout=compact&theme=radical&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Rithveckh&theme=radical&hide_border=true&border_radius=10)
+
+![Rithveckh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rithveckh&theme=react-dark&hide_border=true)
+
 
 ---
 
@@ -84,9 +91,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-384d54?style=flat-square&logo=docker&logoColor=white)  
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-
----
-
 
 ---
 
