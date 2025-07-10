@@ -10,11 +10,12 @@
 
 ---
 
-### 🌟 About Me  
-- 🔭 I’m currently working on **Full Stack Development Projects**  
-- 🌱 Well-versed in **PERN Stack** (PostgreSQL, Express.js, React, Node.js)  
-- 📚 Recently learnt **MERN Stack** (MongoDB, Express.js, React, Node.js)  
-- 💡 Passionate about **Web Development, Full Stack Development, and Problem Solving**
+### ⭐ About Me
+🔭 I’m currently working on scalable and modern Full Stack Development projects using **MERN** and **PERN** stacks.  
+🌱 Recently upskilled in the **MERN Stack** (MongoDB, Express.js, React, Node.js) to complement my proficiency in the **PERN Stack** (PostgreSQL, Express.js, React, Node.js).  
+💡 Passionate about building performant web applications, solving real-world problems with clean code, and crafting seamless user experiences.  
+🧠 I enjoy exploring system design, API architecture, and integrating modern DevOps practices with Docker and CI/CD pipelines.  
+🚀 Always eager to learn and experiment with new technologies in the full-stack and AI ecosystem.
 
 ---
 
