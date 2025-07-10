@@ -19,11 +19,8 @@
 ---
 
 ### 🏆 My GitHub Stats
-![Rithveckh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rithveckh&show_icons=true&theme=radical&border_radius=10)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rithveckh&layout=compact&theme=radical&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Rithveckh&theme=radical&hide_border=true&border_radius=10)
 
 ![Rithveckh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rithveckh&theme=react-dark&hide_border=true)
 
