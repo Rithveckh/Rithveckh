@@ -30,9 +30,8 @@
 ### 🔥 Popular Repositories
 - [Vision-Next](https://github.com/Rithveckh/Vision_Next.git) 🌟
 - [GPT-Clone---Ollamma-Project](https://github.com/Rithveckh/GPT-Clone---Ollamma.git) 🌟
-- [React-Instagram_Clone](https://github.com/Rithveckh/React-Instagram_Clone.git) 🌟
+- [MiniMart-Minimal E-commerce Web App](https://github.com/Rithveckh/MiniMart.git) 🌟
 - [Expenzo-Mini-Java-Core-Project](https://github.com/Rithveckh/Expenzo_JavaProject) 🌟
-
 ---
 
 ### 💻 Tech Stack
@@ -53,11 +52,14 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-000000?style=flat-square&logo=react&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Clerk](https://img.shields.io/badge/-Clerk-3A8FFF?style=flat-square&logo=clerk&logoColor=white)
 
 #### 🛠 Backend Development  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
