@@ -31,7 +31,7 @@
 - [Vision-Next](https://github.com/Rithveckh/Vision_Next.git) 🌟
 - [GPT-Clone---Ollamma-Project](https://github.com/Rithveckh/GPT-Clone---Ollamma.git) 🌟
 - [MiniMart-Minimal E-commerce Web App](https://github.com/Rithveckh/MiniMart.git) 🌟
-- [Expenzo-Mini-Java-Core-Project](https://github.com/Rithveckh/Expenzo_JavaProject) 🌟
+- [Cognichat - AI bot](https://github.com/Rithveckh/-Cognichat.git) 🌟
 ---
 
 ### 💻 Tech Stack
@@ -60,6 +60,7 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Clerk](https://img.shields.io/badge/-Clerk-3A8FFF?style=flat-square&logo=clerk&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 #### 🛠 Backend Development  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
